@@ -148,4 +148,4 @@ python scripts/get_vendor_summary.py
 Data Analyst  
 📧 Email: vikassiddheshware2001@gmail.com  
 🔗 [LinkedIn](www.linkedin.com/in/vikas-siddheshware)  
-🔗 [Portfolio]
+
