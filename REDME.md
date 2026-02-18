@@ -70,13 +70,12 @@ vrinda-store-analysis/
 ---
 <h2><a class="anchor" id="data-cleaning--preparation"></a>Data Cleaning & Preparation</h2>
 
-- Removed duplicate records to ensure data accuracy.
-- Handled missing values by filling, correcting, or removing incomplete entries.
-- Standardized date formats and converted columns to proper data types (numeric, date, text).
-- Cleaned inconsistent values (e.g., spelling errors, extra spaces, mismatched categories).
-- Merged datasets (sales, vrinda, inventory) using common keys like product ID or order ID.
-- Created calculated columns (Total Sales, Profit, Margin %) for better analysis.
-- Validated final summary table to ensure correct totals and consistency before dashboard creation.
+- Removed duplicate records and handled missing values.
+- Standardized data formats (dates, currency, text) and corrected errors.
+- Converted appropriate data types (text to date, string to numeric).
+- Removed invalid values and treated outliers.
+- Created calculated columns and derived new features (Month, Year, KPIs).
+- Built summary tables and structured the final dataset for dashboard analysis.
 
 ---
 <h2><a class="anchor" id="exploratory-data-analysis-eda"></a>Exploratory Data Analysis (EDA)</h2>
