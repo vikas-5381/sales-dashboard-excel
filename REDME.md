@@ -56,12 +56,12 @@ Here is the business problem explained in clear points:
 <h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
 
 ```
-vrinda-store-analysis/
+sales-data-analysis/
 │
 ├── README.md
 ├── .gitignore
 ├── requirements.txt
-├── Vrinda Store Reports.pdf
+├── Sales Data Report .pdf
 │
 ├── dashboard/                  # Excel Dashboard File
 │   └── sales_store_dashboard.XLSX
