@@ -81,16 +81,17 @@ sales-data-analysis/
 <h2><a class="anchor" id="exploratory-data-analysis-eda"></a>Exploratory Data Analysis (EDA)</h2>
 
 **Negative or Zero Values Detected:**
-- Found zero/negative sales or profit entries.
-- Verified whether they were returns or data errors.
+- Negative sales values indicate possible returns or data entry errors.
+- Zero/negative quantity shows missing data or inventory recording issues.
 
 **Outliers Identified:**
-- Detected unusually high or low sales/profit values.
-- Checked if they were real events or data issues.
+- Extremely high sales values detected, which may impact overall analysis results.
+- Unusual quantity or profit values found, indicating possible data entry errors or exceptional transactions.
 
 **Correlation Analysis:**
-- Studied the relationship between sales, discount, and profit.
-- Identified factors affecting overall performance.
+- Strong positive correlation found between Sales and Profit.
+- Weak correlation observed between Discount and Profit.
+  
 ---
 <h2><a class="anchor" id="research-questions--key-findings"></a>Research Questions & Key Findings</h2>
 
