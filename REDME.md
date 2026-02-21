@@ -95,11 +95,11 @@ sales-data-analysis/
 ---
 <h2><a class="anchor" id="research-questions--key-findings"></a>Research Questions & Key Findings</h2>
 
-1. **Which products generate the highest sales and profit?
-2. **Which regions perform better in terms of sales?
-3. **How do discounts impact profitability?
-4. **Are sales increasing over time?
-5. **Which products have low performance?
+1. **Which month generated the highest sales revenue?
+2. **Which product category contributes the most to total revenue?
+3. **Which region/state performs best in terms of sales?
+4. **What is the relationship between discounts and sales volume?
+5. **Who are the top customers contributing to revenue?
 
 ---
 <h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
