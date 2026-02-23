@@ -110,18 +110,18 @@ sales-data-analysis/
   - Sales distribution by gender and age group
   - Orders by different sales channels
   - Order status breakdown (Delivered, Cancelled, Returned, Refunded)
-  ![Vrinda Store Dashboard](images/dashboard.png)
+  ![Sales Dashboard Shows](images/dashboard.png)
 
 ---
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/vendor-performance-analysis.git
+git clone https://github.com/yourusername/sales-data-analysis.git
 ```
 3. Load the CSVs and ingest into database:
 ```bash
-python scripts/ingestion_db.py
+python scripts/ingestion_db.py  
 ```
 4. Create vendor summary table:
 ```bash
@@ -136,7 +136,7 @@ python scripts/get_vendor_summary.py
 ---
 <h2><a class="anchor" id="final-recommendations"></a>Final Recommendations</h2>
 
-- DFocus on high-performing states.
+- DFocus on high-performing  states.
 - Invest more in top sales channels.
 - Target key customer segments.
 - Reduce returns and cancellations.
