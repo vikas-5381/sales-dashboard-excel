@@ -127,20 +127,17 @@ python scripts/ingestion_db.py
 ```bash
 python scripts/get_vendor_summary.py
 ```
-5. Open and run notebooks:
-   - `notebooks/exploratory_data_analysis.ipynb`
-   - `notebooks/vendor_performance_analysis.ipynb`
-6. Open Power BI Dashboard:
-   - `dashboard/vendor_performance_dashboard.pbix`
+5. Open Excel Dashboard:
+   - `dashboard/vrinda_sales_dashboard.pbix`
 
 ---
 <h2><a class="anchor" id="final-recommendations"></a>Final Recommendations</h2>
 
-- DFocus on high-performing  states.
-- Invest more in top sales channels.
-- Target key customer segments.
-- Reduce returns and cancellations.
-- Boost sales during peak months.
+- Focus marketing campaigns on peak season months to maximize revenue.
+- Invest more in top-performing product categories to increase profitability.
+- Expand strategy in high-performing regions and improve sales in low-performing areas.
+- Offer optimized discounts (avoid heavy discounts that reduce profit).
+- Build customer retention programs to encourage repeat purchases and loyalty.
 ---
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
