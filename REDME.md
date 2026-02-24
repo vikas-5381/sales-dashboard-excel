@@ -1,4 +1,4 @@
-
+     
 # 🧾 Sales Data Analyasis
 
 _This dashboard gives a clear and simple overview of sales performance, showing important details like total sales, profit, and trends over time._
