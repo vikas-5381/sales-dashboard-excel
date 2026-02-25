@@ -112,7 +112,7 @@ sales-data-analysis/
   - Order status breakdown (Delivered, Cancelled, Returned, Refunded)
   ![Sales Dashboard Shows](images/dashboard.png)
 
----
+---     
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
 
 1. Clone the repository:
@@ -121,11 +121,11 @@ git clone https://github.com/yourusername/sales-data-analysis.git
 ```
 3. Load the CSVs and ingest into database:
 ```bash
-python scripts/ingestion_db.py  
+sales_dashboard_excel.xlsx  
 ```
-4. Create vendor summary table:
+4. Create sales summary table:
 ```bash
-python scripts/get_vendor_summary.py
+excel scripts/get_sales_summary.xlsx
 ```
 5. Open Excel Dashboard:
    - `dashboard/vrinda_sales_dashboard.pbix`
