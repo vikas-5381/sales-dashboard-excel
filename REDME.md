@@ -50,7 +50,7 @@ Here is the business problem explained in clear points:
 - Microsoft Excel
 - Pivot Tables
 - Charts & Graphs
-- GitHub
+- GithHub
 
 ---
 <h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
@@ -59,7 +59,6 @@ Here is the business problem explained in clear points:
 sales-data-analysis/
 │
 ├── README.md
-├── .gitignore
 ├── requirements.txt
 ├── Sales Data Report .pdf
 │
@@ -110,7 +109,7 @@ sales-data-analysis/
   - Sales distribution by gender and age group
   - Orders by different sales channels
   - Order status breakdown (Delivered, Cancelled, Returned, Refunded)
-  ![Sales Dashboard Shows](images/dashboard.png)
+  ![Sales Dashboard Shows](image/Sales Dashboard Snip.png)
 
 ---     
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
@@ -142,7 +141,7 @@ excel scripts/get_sales_summary.xlsx
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
 **Vikas Siddheshware**  
-Data Analyst  
+Data Analyst       
 📧 Email: vikassiddheshware2001@gmail.com  
 🔗 [LinkedIn](www.linkedin.com/in/vikas-siddheshware)  
 
